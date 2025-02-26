@@ -1,9 +1,13 @@
 ## What is Edenhall?
-Edenhall is a card game blockchain-project that offers people a way to play card-games in tables fully onchain powered by Chainlink VRF,
+Edenhall is a card game blockchain-project that offers people a way to play cardGames in tables, fully onchain powered by Chainlink VRF,
 
 A player can create a `private` or a `public` table through `Edenhall.sol` which will in turn create a table which can be enjoyed by up to 7 players.
 
 People can create a table for a BlackJack game, invite their friends and have fun.
+
+Edenhall.sol (Creates and manages the table)
+BlackJack.sol (Manage the jointable/leavetable/play functons)
+BlackjackUtils.sol (Stores the core functionallity for both Edenhall.sol and 
 
 ![image](https://github.com/user-attachments/assets/6e918438-178c-469d-b03d-804aad2c032a)
 
