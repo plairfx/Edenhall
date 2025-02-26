@@ -5,6 +5,9 @@ A player can create a `private` or a `public` table through `Edenhall.sol` which
 
 People can create a table for a BlackJack game, invite their friends and have fun.
 
+![image](https://github.com/user-attachments/assets/6e918438-178c-469d-b03d-804aad2c032a)
+
+
 
 ## Links
 Contracts on Sepolia:
