@@ -9,10 +9,9 @@ People can create a table for a BlackJack game, invite their friends and have fu
 ## Documentation
 Contracts on Sepolia:
 
-Edenhall : 0x3fF564f745BA65d2043A7ce7a25421d63915067d 
-BlackjackUitls: 0xea32542dbf6b04548a0d3a2879e305b92a49eed7
-
-Blackjack Table deployed from Edenhall -> 0x36490C208Ca981E47202Bd243af910458bBDcE12.
+Edenhall: https://sepolia.etherscan.io/address/0x3ff564f745ba65d2043a7ce7a25421d63915067d
+BlackjackUtils: https://sepolia.etherscan.io/address/0xea32542dbf6b04548a0d3a2879e305b92a49eed7#code
+Blackjack Table deployed from Edenhall -> https://sepolia.etherscan.io/address/0x36490c208ca981e47202bd243af910458bbdce12
 
 
 ### Installation
