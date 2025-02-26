@@ -6,7 +6,7 @@ A player can create a `private` or a `public` table through `Edenhall.sol` which
 People can create a table for a BlackJack game, invite their friends and have fun.
 
 
-## Documentation
+## Links
 Contracts on Sepolia:
 
 Edenhall: https://sepolia.etherscan.io/address/0x3ff564f745ba65d2043a7ce7a25421d63915067d
@@ -32,7 +32,7 @@ tablecreation, but not after.
 - PrivateTable joinPrivateTable is at this moment useless, as we switched from one simple array instead of 8 public variables.
 - TableOwners in privateGames cannot invite new players.
 - Contracts do not add a chainlink consumer/create a subId automatically/put it in.
-- Right now `requestRandomWords` will request 24 words, instead of basing it around the amount of players.
+- Right now `requestRandomWords` will request 24 words, instead of basing it around the amuount players.
 
 
 # Note
